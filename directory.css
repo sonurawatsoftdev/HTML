@@ -1,0 +1,12 @@
+.list-group{
+    --bs-border-color: none;
+}
+#search1{
+    padding-left: 394px;
+    border-block: none;
+
+}
+
+  #list-example{
+   padding-right: 1068px;
+  }
